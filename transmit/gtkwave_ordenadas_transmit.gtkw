@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Sun Jun 30 01:35:15 2024
+[*]
+[dumpfile] "C:\Users\Andres\Desktop\1 SEMESTRE 2024\CIRCUITOS DIGITALES II\PROYECTO\1S2024_G6\transmit\ondas.vcd"
+[dumpfile_mtime] "Sun Jun 30 01:30:05 2024"
+[dumpfile_size] 4091
+[savefile] "C:\Users\Andres\Desktop\1 SEMESTRE 2024\CIRCUITOS DIGITALES II\PROYECTO\1S2024_G6\transmit\gtkwave_ordenadas_transmit.gtkw"
+[timestart] 0
+[size] 1920 985
+[pos] -1 -1
+*-4.031054 185 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Testbench.
+[sst_width] 254
+[signals_width] 268
+[sst_expanded] 1
+[sst_vpaned_height] 290
+@29
+[color] 4
+Testbench.clk
+@28
+[color] 1
+Testbench.rst
+[color] 2
+Testbench.power_on
+[color] 2
+Testbench.tx_en
+[color] 2
+Testbench.data_o_set[7:0]
+@200
+-TRANSMIT_ORDERED_SET
+@28
+[color] 3
+Testbench.transmit_uno.state[5:0]
+[color] 3
+Testbench.transmit_uno.nxt_state[5:0]
+[color] 3
+Testbench.transmit_uno.tx_oset_indicate
+[color] 3
+Testbench.transmit_uno.tx_o_set[7:0]
+[color] 3
+Testbench.transmit_uno.tx_en
+@200
+-TRANSMIT_CODEGROUP
+@28
+Testbench.transmit_dos.state[7:0]
+Testbench.transmit_dos.nxt_state[7:0]
+Testbench.transmit_dos.tx_oset_indicate
+Testbench.transmit_dos.tx_o_set[7:0]
+Testbench.transmit_dos.data_o_set[7:0]
+Testbench.transmit_dos.tx_disparity
+Testbench.transmit_dos.tx_code_group[9:0]
+Testbench.transmit_dos.tx_even
+[pattern_trace] 1
+[pattern_trace] 0

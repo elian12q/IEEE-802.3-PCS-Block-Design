@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Jul  3 06:02:28 2024
+[*]
+[dumpfile] "/home/elicita/RECEIVE/receptor_tb.vcd"
+[dumpfile_mtime] "Wed Jul  3 06:00:26 2024"
+[dumpfile_size] 1919
+[savefile] "/home/elicita/RECEIVE/ondas.gtkw"
+[timestart] 0
+[size] 1850 880
+[pos] -1 -1
+*-6.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] receptor_tb.
+[treeopen] receptor_tb.ut1.
+[sst_width] 233
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 241
+@28
+receptor_tb.ut1.gtx_clk
+receptor_tb.ut1.reset
+@22
+[color] 3
+receptor_tb.ut1.state[3:0]
+[color] 3
+receptor_tb.ut1.nxt_state[3:0]
+@28
+receptor_tb.ut1.even
+receptor_tb.ut1.sync_status
+[color] 2
+receptor_tb.ut1.sudi[9:0]
+@22
+[color] 1
+receptor_tb.ut1.rxd[7:0]
+@28
+receptor_tb.ut1.receiving
+receptor_tb.ut1.rx_dv
+receptor_tb.ut1.rx_er
+[pattern_trace] 1
+[pattern_trace] 0

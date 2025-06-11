@@ -1,0 +1,100 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Jul  5 05:32:54 2024
+[*]
+[dumpfile] "/mnt/c/Users/elian/Downloads/1S2024_G6/PCS/ondas.vcd"
+[dumpfile_mtime] "Fri Jul  5 05:32:07 2024"
+[dumpfile_size] 7296
+[savefile] "/mnt/c/Users/elian/Downloads/1S2024_G6/PCS/ondas.gtkw"
+[timestart] 209
+[size] 1920 985
+[pos] -1 -1
+*-4.031054 250 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench.
+[sst_width] 254
+[signals_width] 268
+[sst_expanded] 1
+[sst_vpaned_height] 290
+@28
+testbench.U0.reset
+testbench.U0.clk
+testbench.U0.power_on
+testbench.U0.tx_en
+@25
+testbench.U1.data_o_set[7:0]
+@200
+-TRANSMIT_ORDERED_SET
+@28
+[color] 3
+testbench.U0.state[5:0]
+[color] 3
+testbench.U0.nxt_state[5:0]
+[color] 3
+testbench.U0.tx_oset_indicate
+[color] 3
+testbench.U0.tx_o_set[7:0]
+[color] 3
+testbench.U0.tx_en
+@200
+-TRANSMIT_CODEGROUP
+@28
+[color] 2
+testbench.U1.state[7:0]
+[color] 2
+testbench.U1.nxt_state[7:0]
+[color] 2
+testbench.U1.tx_oset_indicate
+[color] 2
+testbench.U1.tx_o_set[7:0]
+@22
+[color] 2
+testbench.U1.data_o_set[7:0]
+@28
+[color] 2
+testbench.U1.tx_disparity
+[color] 2
+testbench.U1.tx_code_group[9:0]
+[color] 2
+testbench.U1.tx_even
+@200
+-Synchronization
+@22
+[color] 5
+testbench.U2.nxt_state[4:0]
+[color] 5
+testbench.U2.state[4:0]
+@24
+[color] 5
+testbench.U2.count_cgg[2:0]
+[color] 5
+testbench.U2.count_cgb[2:0]
+[color] 5
+testbench.U2.count_comma[2:0]
+@22
+[color] 5
+testbench.U2.rx_code_group[9:0]
+@28
+[color] 5
+testbench.U2.rx_even
+[color] 5
+testbench.U2.sync_status
+@22
+[color] 5
+testbench.U2.sudi[9:0]
+@200
+-Receive
+@22
+testbench.U3.state[3:0]
+testbench.U3.nxt_state[3:0]
+@28
+testbench.U3.even
+testbench.U3.sync_status
+@22
+testbench.U3.sudi[9:0]
+testbench.U3.rxd[7:0]
+@28
+testbench.U3.receiving
+testbench.U3.rx_dv
+testbench.U3.rx_er
+[pattern_trace] 1
+[pattern_trace] 0
